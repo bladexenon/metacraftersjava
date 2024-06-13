@@ -14,3 +14,10 @@ Your listNFTs() function will print all of your NFTs metadata to the console (i.
 For good measure, getTotalSupply() should return the number of NFT's you have created
 
 Didn't copy the code from the example because I wanted to give it a go on my own with the help of the youtube guides and my own research, some help of AI was also taken wherein I was put into a code block
+
+pointers during explanation.
+Functionality
+Has the ability to "mint" NFTs and store them
+You should "mint" at least three NFT's
+Has the ability to print the details of your NFTs to the console
+Has the ability to print the total supply of your NFT collection to the console
